@@ -123,7 +123,7 @@ To validate that the Invoice Generation module accurately generates invoices bas
 
 ## 12. Roles & Responsibilities
 
-- **QA Lead (You):** Prepare plan, assign testers, report status
+- **QA Lead:** Prepare plan, assign testers, report status
 - **Manual QA:** Execute tests, log defects
 - **Dev:** Fix bugs, provide clarifications
 - **Project Manager:** Coordinate release timelines
