@@ -51,23 +51,21 @@ Test Data: Created dynamically via admin panel + seeded using APIs
 Browsers: Chrome, Firefox, Safari (Mac)
 
 #### Test Coverage Areas
-Module	Test Focus
-Login	Roles, sessions, invalid credentials
-Invoice Creation	Required fields, formats, attachments
-Email Dispatch	Template, delivery success/failure
-Payment Processing	Successful, failed, and partial payments
-Reports	Data accuracy and filters
-Reminders	Trigger time, duplicate handling, retries
+Login:	Roles, sessions, invalid credentials  
+Invoice Creation:	Required fields, formats, attachments  
+Email Dispatch:	Template, delivery success/failure  
+Payment Processing:	Successful, failed, and partial payments    
+Reports:	Data accuracy and filters  
+Reminders:	Trigger time, duplicate handling
 
 #### Risks & Mitigation
-Risk	Mitigation
-Payment gateway failure	Retry logic testing, sandbox use
-Email not received by customer	Verified via mock email testing
-Report mismatch	API vs UI data validation
-Missing invoice status updates	Backend polling and log checks
+Payment gateway failure:	Retry logic testing, sandbox use  
+Email not received by customer:	Verified via mock email testing  
+Report mismatch:	API vs UI data validation  
+Missing invoice status updates:	Backend polling and log checks
 
 #### Entry & Exit Criteria
-Entry Criteria:
+**Entry Criteria:**
 
 Requirements are documented and reviewed.
 
@@ -75,7 +73,7 @@ APIs and environments are available.
 
 Test data is seeded.
 
-Exit Criteria:
+**Exit Criteria:**
 
 All critical test cases pass.
 
