@@ -1,4 +1,4 @@
-# 🧪 Test Plan: Invoice Generation Module
+# Test Plan: Invoice Generation Module
 
 **Project Name:** Corcentric Invoice-to-Cash Automation  
 **Module Name:** Invoice Generation  
@@ -16,7 +16,7 @@ To validate that the Invoice Generation module accurately generates invoices bas
 
 ## 2. Scope
 
-### ✅ In-Scope:
+### In-Scope:
 - Manual creation of invoices via UI
 - Auto-generation of invoices from scheduled jobs
 - Field validation (e.g., amounts, customer info)
@@ -24,7 +24,7 @@ To validate that the Invoice Generation module accurately generates invoices bas
 - Email dispatch confirmation
 - Integration with billing and tax systems
 
-### ❌ Out-of-Scope:
+### Out-of-Scope:
 - Payment processing (covered in Payment module)
 - External tax engine testing
 
@@ -147,7 +147,7 @@ To validate that the Invoice Generation module accurately generates invoices bas
 
 | Name         | Role       | Signature |
 |--------------|------------|-----------|
-| Leena Barua  | QA Lead    | ✅         |
-| PM Name      | Project Manager | ✅     |
-| Dev Lead     | Development | ✅        |
+| Leena Barua  | QA Lead    |         |
+| PM Name      | Project Manager |      |
+| Dev Lead     | Development |        |
 
