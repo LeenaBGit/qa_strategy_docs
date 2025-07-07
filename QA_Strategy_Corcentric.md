@@ -5,7 +5,7 @@ Client: Corcentric
 Domain: Finance / Accounts Receivable Automation
 Objective: Ensure seamless, secure, and reliable automation of the invoice creation, payment processing, and cash application flows for business clients.
 
-Scope of Testing
+#### Scope of Testing
 Login & Role-based Access
 
 Invoice Creation
@@ -20,7 +20,7 @@ Reports & Dashboard Accuracy
 
 API Testing for Invoice & Payment Modules
 
-Tools Used
+#### Tools Used
 Type	Tool
 Test Management	Jira
 Manual Testing	TestRail / Excel
@@ -29,7 +29,7 @@ API Testing	Postman + Python (requests)
 CI/CD	GitHub Actions
 Version Control	Git + GitHub
 
-Testing Types Applied
+#### Testing Types Applied
 Functional Testing
 
 Regression Testing
@@ -44,14 +44,14 @@ Cross-browser Testing
 
 Ad-hoc & Exploratory Testing
 
-Test Environment
+#### Test Environment
 QA Server: Staging server provided by client
 
 Test Data: Created dynamically via admin panel + seeded using APIs
 
 Browsers: Chrome, Firefox, Safari (Mac)
 
-Test Coverage Areas
+#### Test Coverage Areas
 Module	Test Focus
 Login	Roles, sessions, invalid credentials
 Invoice Creation	Required fields, formats, attachments
@@ -60,14 +60,14 @@ Payment Processing	Successful, failed, and partial payments
 Reports	Data accuracy and filters
 Reminders	Trigger time, duplicate handling, retries
 
-Risks & Mitigation
+#### Risks & Mitigation
 Risk	Mitigation
 Payment gateway failure	Retry logic testing, sandbox use
 Email not received by customer	Verified via mock email testing
 Report mismatch	API vs UI data validation
 Missing invoice status updates	Backend polling and log checks
 
-Entry & Exit Criteria
+#### Entry & Exit Criteria
 Entry Criteria:
 
 Requirements are documented and reviewed.
@@ -84,7 +84,7 @@ No high-severity defects open.
 
 Test summary report and sign-off approved.
 
-Timeline & Effort
+#### Timeline & Effort
 Planning: 2 days
 
 Test Case Design: 4 days
@@ -95,7 +95,7 @@ Regression Cycle: 3 days
 
 Sign-off & Closure: 1 day
 
-Deliverables
+#### Deliverables
 Test Plan & Strategy Document
 
 Test Scenarios & Cases
@@ -106,7 +106,7 @@ Test Summary Report
 
 Sign-off Document
 
-QA Lead Responsibilities
+#### QA Lead Responsibilities
 Defined scope and testing strategy.
 
 Led team of 2 manual testers and 1 automation engineer.
