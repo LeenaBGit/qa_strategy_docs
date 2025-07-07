@@ -2,7 +2,7 @@
 #### Project Overview
 **Project Name:** Corcentric Invoice-to-Cash Automation  
 **Client:** Corcentric  
-**Domain:** Finance / Accounts Receivable Automation
+**Domain:** Finance / Accounts Receivable Automation  
 **Objective:** Ensure seamless, secure, and reliable automation of the invoice creation, payment processing, and cash application flows for business clients.
 
 #### Scope of Testing
