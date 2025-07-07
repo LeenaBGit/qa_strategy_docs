@@ -21,13 +21,12 @@ Reports & Dashboard Accuracy
 API Testing for Invoice & Payment Modules
 
 #### Tools Used
-Type	Tool
-Test Management	Jira
-Manual Testing	TestRail / Excel
-Automation	Selenium + Python
-API Testing	Postman + Python (requests)
-CI/CD	GitHub Actions
-Version Control	Git + GitHub
+Test Management:	Jira  
+Manual Testing:	TestRail / Excel  
+Automation:	Selenium + Python  
+API Testing:	Postman + Python (requests)  
+CI/CD:	GitHub Actions  
+Version Control:	Git + GitHub  
 
 #### Testing Types Applied
 Functional Testing
