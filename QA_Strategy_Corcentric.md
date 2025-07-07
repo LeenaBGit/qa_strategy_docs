@@ -1,5 +1,5 @@
-QA Strategy Document – Corcentric Invoice-to-Cash Platform
-Project Overview
+### QA Strategy Document – Corcentric Invoice-to-Cash Platform
+#### Project Overview
 Project Name: Corcentric Invoice-to-Cash Automation
 Client: Corcentric
 Domain: Finance / Accounts Receivable Automation
