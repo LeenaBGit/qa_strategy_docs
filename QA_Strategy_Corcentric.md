@@ -106,7 +106,7 @@ Test Summary Report
 
 Sign-off Document
 
-👩🏻‍💻 QA Lead Responsibilities
+QA Lead Responsibilities
 Defined scope and testing strategy.
 
 Led team of 2 manual testers and 1 automation engineer.
