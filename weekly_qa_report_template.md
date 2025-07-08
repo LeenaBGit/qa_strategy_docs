@@ -1,27 +1,24 @@
-# 🗓️ Weekly QA Status Report – [Project Name]
-**Reporting Period:** [Start Date] – [End Date]  
-**Prepared by:** [Your Name]  
-**Date Submitted:** [Submission Date]
+# 🗓️ Weekly QA Status Report – Corcentric Invoice-to-Cash Platform  
+**Reporting Period:** July 1 – July 5, 2025  
+**Prepared by:** Leena Barua  
+**Date Submitted:** July 6, 2025
 
 ---
 
-## 🔍 1. Summary
-A brief overview of QA activities, test coverage, and overall QA health for the week.
-
-Example:
-> Completed regression for Release 1.2. Blocker defects resolved. UAT support in progress. On track for QA sign-off next week.
+## 🔍 1. Summary  
+This week, we completed regression testing for the Invoice Generation and Cash Application modules. Participated in UAT triage sessions and resolved 95% of high-priority defects. Smoke testing for the upcoming release is on track. QA sign-off is expected early next week.
 
 ---
 
 ## ✅ 2. QA Activities This Week
 
-| Activity                        | Description                               |
-|--------------------------------|-------------------------------------------|
-| Test Execution                 | Ran 120+ test cases (manual + API)        |
-| Regression Testing             | Completed for Invoice and Login modules   |
-| UAT Support                    | Participated in daily triage & demos      |
-| Bug Triage                     | 3 triage meetings led, 12 bugs discussed  |
-| Test Case Review               | Finalized 15 new test cases in TestRail   |
+| Activity                        | Description                                      |
+|--------------------------------|--------------------------------------------------|
+| Regression Testing             | Completed for core invoice-to-cash workflows     |
+| UAT Support                    | Participated in daily triage with client team    |
+| Defect Verification            | Validated 10+ fixes in staging                   |
+| Test Documentation             | Updated traceability matrix and test summaries   |
+| Test Planning                  | Scoped smoke test checklist for Release 1.3      |
 
 ---
 
@@ -29,45 +26,46 @@ Example:
 
 | Metric                         | Count      |
 |--------------------------------|------------|
-| Total Test Cases Planned       | 150        |
-| Test Cases Executed            | 140        |
-| Test Cases Passed              | 135        |
-| Test Cases Failed              | 5          |
-| Test Coverage %                | 93%        |
-| Automation Coverage (if any)   | 30%        |
+| Total Test Cases Planned       | 180        |
+| Test Cases Executed            | 172        |
+| Test Cases Passed              | 166        |
+| Test Cases Failed              | 6          |
+| Test Coverage %                | 95%        |
+| Automation Coverage (UI/API)   | 40%        |
 
 ---
 
 ## 🐞 4. Defects Summary
 
-| Status       | Count | Notes                     |
-|--------------|-------|---------------------------|
-| Open         | 4     | 1 blocker, 2 high, 1 low  |
-| In Progress  | 2     | Expected fix by Tuesday   |
-| Closed       | 10    | All verified               |
+| Status       | Count | Notes                                  |
+|--------------|-------|----------------------------------------|
+| Open         | 3     | 1 blocker, 1 high, 1 medium            |
+| In Progress  | 2     | Being validated by Dev team            |
+| Closed       | 12    | Verified across modules                |
 
 Top blockers:
-- **#BUG-231:** Invoice total miscalculation  
-- **#BUG-238:** PDF download fails on Firefox
+- **#CCT-BUG-019:** PDF download fails for multi-line item invoices  
+- **#CCT-BUG-022:** Incorrect tax calculation for EU clients
 
 ---
 
 ## 🚩 5. Risks & Concerns
 
-- Pending API response time validation in staging
-- Environment downtime delayed UAT test by 1 day
+- One UAT blocker may delay client approval for Release 1.3  
+- Test data refresh pending for multi-currency scenarios
 
 ---
 
 ## 🧭 6. Next Week Plan
 
-- Start smoke testing for Release 1.3  
-- Complete test data setup for new client module  
-- Prepare QA sign-off checklist and send by Thursday
+- Complete smoke and sanity testing for Release 1.3  
+- Prepare and submit QA sign-off checklist  
+- Continue defect verification and traceability updates  
+- Support final UAT walkthrough session with client
 
 ---
 
-## 📎 Attachments (Optional)
+## 📎 Attachments
 
-- [Defect Summary Sheet](link if applicable)  
-- [Traceability Matrix](link if applicable)
+- [Traceability Matrix](traceability_matrix_example.md)  
+- [Defect Summary Sheet](link-to-defect-doc-if-any)
