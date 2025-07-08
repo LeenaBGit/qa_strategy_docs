@@ -4,8 +4,8 @@ This repository showcases real-world QA documentation created for complex enterp
 
 ##  Contents
 
-- `qa_strategy_corcentric.md` – Full QA strategy for an invoice-to-cash automation platform
-- `corcentric_test_plan.md` – Modular test plan focused on invoice generation
+- `QA_Strategy_Corcentric.md` – Full QA strategy for an invoice-to-cash automation platform
+- `Test_Plan_Invoice_Generation_Module.md` – Modular test plan focused on invoice generation
 - `traceability_matrix_example.md` – Lightweight, markdown-based traceability matrix
 - `weekly_qa_report_template.md` – Ready-to-use format for reporting sprint QA status
 
