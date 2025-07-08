@@ -1,16 +1,16 @@
-# 🗓️ Weekly QA Status Report – Corcentric Invoice-to-Cash Platform  
+#  Weekly QA Status Report – Corcentric Invoice-to-Cash Platform  
 **Reporting Period:** July 1 – July 5, 2024  
 **Prepared by:** Leena Barua  
 **Date Submitted:** July 6, 2024
 
 ---
 
-## 🔍 1. Summary  
+##  1. Summary  
 This week, we completed regression testing for the Invoice Generation and Cash Application modules. Participated in UAT triage sessions and resolved 95% of high-priority defects. Smoke testing for the upcoming release is on track. QA sign-off is expected early next week.
 
 ---
 
-## ✅ 2. QA Activities This Week
+##  2. QA Activities This Week
 
 | Activity                        | Description                                      |
 |--------------------------------|--------------------------------------------------|
@@ -22,7 +22,7 @@ This week, we completed regression testing for the Invoice Generation and Cash A
 
 ---
 
-## 📊 3. Test Metrics
+##  3. Test Metrics
 
 | Metric                         | Count      |
 |--------------------------------|------------|
@@ -35,7 +35,7 @@ This week, we completed regression testing for the Invoice Generation and Cash A
 
 ---
 
-## 🐞 4. Defects Summary
+##  4. Defects Summary
 
 | Status       | Count | Notes                                  |
 |--------------|-------|----------------------------------------|
@@ -49,14 +49,14 @@ Top blockers:
 
 ---
 
-## 🚩 5. Risks & Concerns
+##  5. Risks & Concerns
 
 - One UAT blocker may delay client approval for Release 1.3  
 - Test data refresh pending for multi-currency scenarios
 
 ---
 
-## 🧭 6. Next Week Plan
+##  6. Next Week Plan
 
 - Complete smoke and sanity testing for Release 1.3  
 - Prepare and submit QA sign-off checklist  
@@ -65,7 +65,7 @@ Top blockers:
 
 ---
 
-## 📎 Attachments
+##  Attachments
 
 - [Traceability Matrix](traceability_matrix_example.md)  
 - [Defect Summary Sheet](link-to-defect-doc-if-any)
