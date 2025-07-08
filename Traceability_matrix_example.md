@@ -14,5 +14,5 @@ This matrix maps functional requirements to their corresponding test cases. It e
 
 📌 **Legend**:  
 - ✅ **Requirement ID**: Reference from BRD or user story  
-- ✅ **Test Case ID**: Matches your QA test document  
+- ✅ **Test Case ID**: Matches QA test document  
 - ✅ **Status**: Based on most recent test cycle  
