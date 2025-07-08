@@ -1,7 +1,7 @@
 # 🗓️ Weekly QA Status Report – Corcentric Invoice-to-Cash Platform  
-**Reporting Period:** July 1 – July 5, 2025  
+**Reporting Period:** July 1 – July 5, 2024  
 **Prepared by:** Leena Barua  
-**Date Submitted:** July 6, 2025
+**Date Submitted:** July 6, 2024
 
 ---
 
