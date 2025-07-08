@@ -1,4 +1,4 @@
-# 🧩 Traceability Matrix – Invoice Generation Module (Sample)
+#  Traceability Matrix – Invoice Generation Module (Sample)
 
 This matrix maps functional requirements to their corresponding test cases. It ensures full coverage and helps track which requirements have been validated.
 
@@ -12,7 +12,7 @@ This matrix maps functional requirements to their corresponding test cases. It e
 
 ---
 
-📌 **Legend**:  
-- ✅ **Requirement ID**: Reference from BRD or user story  
-- ✅ **Test Case ID**: Matches QA test document  
-- ✅ **Status**: Based on most recent test cycle  
+ **Legend**:  
+-  **Requirement ID**: Reference from BRD or user story  
+-  **Test Case ID**: Matches QA test document  
+-  **Status**: Based on most recent test cycle  
